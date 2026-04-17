@@ -3,4 +3,5 @@ Project submitted for Deep Learning at the University of New Haven. Uses Mask R-
 
 - [Finetuning Jupyter Notebook](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/dl_project_finetuning_final.md)
 - [Dataset & Fine-Tuned Models](https://drive.google.com/drive/folders/16Mj66gZysbH1EZXZO-neVbpdzy3ptoQP?usp=sharing)
+- [Mask R-CNN Repo](https://github.com/facebookresearch/Detectron)
 
