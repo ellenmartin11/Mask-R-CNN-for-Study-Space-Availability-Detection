@@ -1,4 +1,4 @@
-# Mask-R-CNN-for-Study-Space-Availability-Detection
+# Mask R-CNN for Study Space Availability Detection
 Project submitted for Deep Learning at the University of New Haven. Uses Mask R-CNN with a ResNet-50-FPN backbone to detect 9 custom classes using a custom dataset (N=100). 
 
 - [Finetuning Jupyter Notebook](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/dl_project_finetuning_final.md)
