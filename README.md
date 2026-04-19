@@ -6,3 +6,6 @@ Project submitted for Deep Learning at the University of New Haven. Uses Mask R-
 - [Mask R-CNN Repo](https://github.com/facebookresearch/Detectron)
 - [Tiny R-CNN Summary - AI Agent Fine-Tuned MobileNet](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/TINY_MASKRCNN_SUMMARY.md)
 
+### Scratch Model - AI Agent Architecture
+- 
+
