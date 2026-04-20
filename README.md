@@ -11,7 +11,7 @@ Project submitted for Deep Learning at the University of New Haven. Uses Mask R-
 - [Scratch R-CNN Summary - AI Agent Fine-Tuned](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/SCRATCH_MASKRCNN_SUMMARY.md)
 
 ### Block Diagram of Architecture
-![Block Diagram of Scratch R-CNN Architecture](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/scratch_architecture%20(2).png)
+![Block Diagram of Scratch R-CNN Architecture](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/scratch_arch.pdf)
 
 ### Validation Loss
 ![Validation Loss Across 50 Epochs](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/scratch_val_loss.png)
