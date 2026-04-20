@@ -12,3 +12,4 @@ Project submitted for Deep Learning at the University of New Haven. Uses Mask R-
 
 ![Block Diagram of Scratch R-CNN Architecture](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/scratch_architecture%20(2).png)!
 
+![Validation Loss Across 50 Epochs]
