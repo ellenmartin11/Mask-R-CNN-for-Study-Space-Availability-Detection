@@ -4,14 +4,15 @@ Project submitted for Deep Learning at the University of New Haven. Uses Mask R-
 - [Finetuning Jupyter Notebook](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/dl_project_finetuning_final.md)
 - [Dataset & Fine-Tuned Models](https://drive.google.com/drive/folders/16Mj66gZysbH1EZXZO-neVbpdzy3ptoQP?usp=sharing)
 - [Mask R-CNN Repo](https://github.com/facebookresearch/Detectron)
-- [Tiny R-CNN Summary - AI Agent Fine-Tuned MobileNet](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/TINY_MASKRCNN_SUMMARY.md)
+- [Gradient CAM for Fine-Tuned Mask R-CNN 10 Epoch Model - Exp1](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/CAM.pdf)
+
 
 ## Scratch Model - AI Agent Architecture
 - DualPath Backbone + FPN + RoiAlign
 - [Scratch R-CNN Summary - AI Agent Fine-Tuned](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/SCRATCH_MASKRCNN_SUMMARY.md)
 
 ### Block Diagram of Architecture
-![Block Diagram of Scratch R-CNN Architecture](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/scratch_arch.pdf)
+![Block Diagram of Scratch R-CNN Architecture](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/scratch_arch-1.png)
 
 ### Validation Loss
 ![Validation Loss Across 50 Epochs](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/scratch_val_loss.png)
