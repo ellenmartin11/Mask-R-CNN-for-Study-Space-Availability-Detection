@@ -1,7 +1,7 @@
 # Mask R-CNN for Study Space Availability Detection
 Project submitted for Deep Learning at the University of New Haven. Uses Mask R-CNN with a ResNet-50-FPN backbone to detect 9 custom classes using a custom dataset (N=100). Also includes a Tiny R-CNN model (fine tuned MobileNetV2), generated using Claude Code. 
 
-- [Finetuning Jupyter Notebook](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/dl_project_finetuning_final.md)
+- [Finetuning Jupyter Notebook - Augmentation, Dataloading, Random Search, Model Training, Validation, Testing and CAM](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/dl_project_finetuning_CAM_final.md)
 - [Dataset & Fine-Tuned Models](https://drive.google.com/drive/folders/16Mj66gZysbH1EZXZO-neVbpdzy3ptoQP?usp=sharing)
 - [Mask R-CNN Repo](https://github.com/facebookresearch/Detectron)
 - [Gradient CAM for Fine-Tuned Mask R-CNN 10 Epoch Model - Exp1](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/CAM.pdf)
