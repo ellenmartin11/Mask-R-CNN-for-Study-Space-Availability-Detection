@@ -8,7 +8,7 @@ Project submitted for Deep Learning at the University of New Haven. Uses Mask R-
 
 
 ## Scratch Model - AI Agent Architecture
-- DualPath Backbone + FPN + RoiAlign
+- [DualPath Backbone + FPN + RoiAlign + GroupNorm](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/DL_Project_Claude%20(1).md)
 - [Scratch R-CNN Summary - AI Agent Fine-Tuned](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/SCRATCH_MASKRCNN_SUMMARY.md)
 
 ## Model Comparison
