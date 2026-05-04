@@ -5,6 +5,7 @@ Project submitted for Deep Learning at the University of New Haven. Uses Mask R-
 - [Dataset & Fine-Tuned Models](https://drive.google.com/drive/folders/16Mj66gZysbH1EZXZO-neVbpdzy3ptoQP?usp=sharing)
 - [Mask R-CNN Repo](https://github.com/facebookresearch/Detectron)
 - [Gradient CAM for Fine-Tuned Mask R-CNN 10 Epoch Model - Exp1](https://github.com/ellenmartin11/Mask-R-CNN-for-Study-Space-Availability-Detection/blob/main/CAM.pdf)
+- [Gradio Deployment on HuggingFace](https://huggingface.co/spaces/ellenmartin11/Instance_Segmentation_of_UNH_Study_Spaces)
 
 
 ## Scratch Model - AI Agent Architecture
